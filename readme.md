@@ -17,5 +17,5 @@
 `pip install numpy` 
 ## 安装OpenCV
 `pip install opencv-python`
-## 安装pandas
+## 安装Pandas
 `pip install pandas`
