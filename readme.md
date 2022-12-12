@@ -12,7 +12,7 @@
     CustomerPosData.csv 为客户点的坐标和ID  
 7、在**地图窗口**按ESC键即可退出程序  
 
-# 依赖性
+# 依赖项
 ## 安装Numpy  
 `pip install numpy` 
 ## 安装OpenCV
